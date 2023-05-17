@@ -1,0 +1,28 @@
+.elemento {
+    width:30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 2%;
+    margin-bottom: 3%;
+}
+
+.botones {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.botones button {
+    margin: 0 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+button{
+    border-radius: 8%;
+    background-color: #f6a68d;
+    border-color: #f6a68d;
+    color:black;
+    font-family:  'sans-serif';
+}
